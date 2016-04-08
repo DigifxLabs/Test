@@ -9,6 +9,7 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="145,245,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkBox" Content="CheckBox" HorizontalAlignment="Left" Margin="145,115,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Page>
